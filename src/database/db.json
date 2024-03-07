@@ -1,0 +1,22 @@
+{
+  "customers": [
+    {
+      "id": "1",
+      "name": "Nguyễn Văn ABCDEF",
+      "address": "123 Đường A, Quận 1, TP.HCM",
+      "phone": "0123456789"
+    },
+    {
+      "name": "Trần Thị BC",
+      "address": "456 Đường B, Quận 2, TP.HCM",
+      "phone": "0123456790",
+      "id": "2"
+    },
+    {
+      "id": "3",
+      "name": "Lê Văn C",
+      "address": "789 Đường C, Quận 3, TP.HCM",
+      "phone": "0123456791"
+    }
+  ]
+}
